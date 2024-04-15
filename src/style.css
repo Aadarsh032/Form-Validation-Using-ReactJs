@@ -1,0 +1,16 @@
+
+.content{
+     text-align:left;  
+}
+.bigbox{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: fit-content;
+    
+}
+button
+{
+    width: 100%;
+}
